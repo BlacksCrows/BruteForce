@@ -2,6 +2,8 @@
 
 [![Version](https://img.shields.io/badge/Version-3.1.0-green)]()
 [![Python](https://img.shields.io/badge/Python-v3.9-yellow)]()
+[![GitHub license](https://img.shields.io/github/license/BlacksCrows/Hell-Shell.svg)](https://github.com/BlacksCrows/Hell-Shell/blob/master/LICENSE) 
+
 
 This program will brute force any Instagram account you send it its way given a list of proxies.
 
